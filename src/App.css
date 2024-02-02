@@ -1,0 +1,43 @@
+body{
+	background-color: black;
+}
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main_div {
+  width: 336px;
+  background-color: #24231f;
+  padding-bottom: 4px;
+  margin-top: 50px !important;
+  border-radius: 10px;
+  overflow: hidden;
+  padding-top: 50px;
+  margin: auto;
+}
+
+.text>input {
+  width: 97%;
+  padding: 30px 0px;
+  background-color: #24231f;
+  border: none;
+  color: white;
+  text-align: right;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.btn input {
+  height: 60px;
+  width: 78px;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 7px;
+  background-color: black;
+  color: white;
+  border: none;
+  margin:3px;
+  box-shadow: 0px 0px 1px white;
+}
